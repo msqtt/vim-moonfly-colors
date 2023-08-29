@@ -22,7 +22,7 @@ local grey239 = "#4e4e4e"
 local grey238 = "#444444"
 local grey237 = "#3a3a3a"
 local grey236 = "#303030"
-local grey235 = "#262626"
+local grey235 = black
 local grey234 = "#1c1c1c"
 local grey233 = "#121212"
 -- Core theme colors

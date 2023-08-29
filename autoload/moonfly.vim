@@ -14,7 +14,7 @@ let s:grey239   = '#4e4e4e'
 let s:grey238   = '#444444'
 let s:grey237   = '#3a3a3a'
 let s:grey236   = '#303030'
-let s:grey235   = '#262626'
+let s:grey235   = black
 let s:grey234   = '#1c1c1c'
 let s:grey233   = '#121212'
 " Core theme colors
